@@ -3,3 +3,4 @@ Display the contents list of your current directory
 Script that changes the working directory to the user’s home directory
 Display current directory contents in a long format
 Display current directory contents, including hidden files, using the long format
+Display current directory contents, using long format, with user and group IDs displayed numerically & hidden files

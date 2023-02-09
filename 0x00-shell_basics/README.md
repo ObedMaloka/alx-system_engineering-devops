@@ -6,3 +6,4 @@ Display current directory contents, including hidden files, using the long forma
 Display current directory contents, using long format, with user and group IDs displayed numerically & hidden files
 Script that creates a directory named my_first_directory in the /tmp/ directory
 Move the file betty from /tmp/ to /tmp/my_first_directory
+Delete the file betty
